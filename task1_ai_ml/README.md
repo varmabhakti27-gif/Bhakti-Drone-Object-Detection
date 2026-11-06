@@ -59,7 +59,7 @@ task1_ai_ml/
 Sample prediction images and model training/evaluation graphs are available in the `results` folder.
 The project was also tested on 10 unseen drone images for visual evaluation.
 
-## 8. Future Improvements
+##  Future Improvements
 
 - Improve detection of small and distant objects.
 - Reduce false detections in crowded scenes.
