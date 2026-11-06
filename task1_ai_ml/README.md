@@ -65,3 +65,9 @@ The project was also tested on 10 unseen drone images for visual evaluation.
 - Reduce false detections in crowded scenes.
 - Explore further model optimization.
 - Test the model on additional drone videos.
+
+## Trained Model
+
+Download the trained YOLO26n model:
+
+[Download best_model.pt](https://drive.google.com/file/d/1Z2R6fs4aZp0hfVnNBoYF8xRwiVUZkxCH/view?usp=sharing)
