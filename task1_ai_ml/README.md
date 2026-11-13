@@ -59,6 +59,14 @@ task1_ai_ml/
 Sample prediction images and model training/evaluation graphs are available in the `results` folder.
 The project was also tested on 10 unseen drone images for visual evaluation.
 
+## Limitations
+
+- The model may sometimes misclassify objects.
+- Small objects can be difficult to detect accurately.
+- Overlapping objects may affect detection performance.
+- False-positive detections may occur in complex scenes.
+- Detection accuracy may vary depending on image quality and environmental conditions.
+
 ##  Future Improvements
 
 - Improve detection of small and distant objects.
