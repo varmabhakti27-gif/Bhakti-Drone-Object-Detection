@@ -1,2 +1,2 @@
 # Bhakti-Drone-Object-Detection
-AI-based drone object detection using YOLO26n and VisDrone2019-DET dataset.
+AI-Based Object Detection for Drone Imagery Using YOLO, with ESP32–MPU6050 Motion Monitoring.
