@@ -9,7 +9,7 @@ The model is fine-tuned on the VisDrone2019-DET dataset to detect objects such a
 ##  Dataset
 
 - **Dataset:** VisDrone2019-DET
-- **Source:** VisDrone Dataset
+- **Source:** [VisDrone2019 Official Dataset](https://github.com/VisDrone/VisDrone-Dataset)
 - **Task:** Object Detection
 - **Number of Classes:** 10
 
