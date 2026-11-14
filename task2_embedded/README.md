@@ -11,6 +11,15 @@ This task uses an ESP32 microcontroller and an MPU6050 sensor to monitor tilt an
 - Jumper wires
 - USB cable
 
+## Board Details
+
+- Board: DOIT ESP32 DEVKIT V1
+- Sensor: MPU6050
+- Communication: I2C
+- SDA: GPIO 21
+- SCL: GPIO 22
+- Sensor supply voltage: 3.3V
+
 ## Connections
 
 | MPU6050 | ESP32 |
