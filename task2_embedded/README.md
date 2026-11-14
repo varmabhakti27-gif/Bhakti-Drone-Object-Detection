@@ -39,4 +39,4 @@ These are initial experimental thresholds for demonstration.
 
 ## Files
 - `esp32_mpu6050.ino` – ESP32 firmware source code.
-- `wiring_diagram.png` – Wiring diagram (to be added).
+- `wiring_diagram.png.jpeg` – ESP32 and MPU6050 wiring diagram.
