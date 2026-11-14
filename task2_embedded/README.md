@@ -27,7 +27,7 @@ The program displays sensor readings on the Serial Monitor and generates warning
 
 ## Wiring Diagram
 
-![ESP32 and MPU6050 Wiring Diagram](wiring_diagram.png)
+![ESP32 and MPU6050 Wiring Diagram](wiring_diagram.png.jpeg)
 
 
 ## Thresholds
