@@ -26,6 +26,17 @@ This task uses an ESP32 microcontroller and an MPU6050 sensor to monitor tilt an
 - Adafruit MPU6050
 - Adafruit Unified Sensor
 
+## Installation and Setup
+
+1. Install Arduino IDE.
+2. Install the ESP32 board package.
+3. Install the required libraries mentioned above.
+4. Connect the ESP32 to your computer using a USB cable.
+5. Select DOIT ESP32 DEVKIT V1 in Arduino IDE.
+6. Select the correct COM port.
+7. Upload the `esp32_mpu6050.ino` code.
+8. Open Serial Monitor at 115200 baud.
+
 ## Connections
 
 | MPU6050 | ESP32 |
