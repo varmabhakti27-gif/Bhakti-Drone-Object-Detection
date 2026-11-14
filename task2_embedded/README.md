@@ -41,6 +41,14 @@ These are initial experimental thresholds for demonstration.
 - `esp32_mpu6050.ino` – ESP32 firmware source code.
 - `wiring_diagram.png.jpeg` – ESP32 and MPU6050 wiring diagram.
 
+## Test Summary
+
+| Test Condition | Expected Output |
+|---|---|
+| Sensor stationary | STATUS: NORMAL |
+| Sensor tilted beyond 30° | WARNING: EXCESSIVE TILT! |
+| Sensor moved | WARNING: MOTION DETECTED! |
+
 ## Test Evidence
 
 ### 1. Normal Status
