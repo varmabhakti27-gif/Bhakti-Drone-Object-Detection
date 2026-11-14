@@ -40,3 +40,14 @@ These are initial experimental thresholds for demonstration.
 ## Files
 - `esp32_mpu6050.ino` – ESP32 firmware source code.
 - `wiring_diagram.png.jpeg` – ESP32 and MPU6050 wiring diagram.
+
+## Test Evidence
+
+### 1. Normal Status
+![Normal Status](evidence/normal_status.png)
+
+### 2. Excessive Tilt Warning
+![Tilt Warning](evidence/tilt_warning.png)
+
+### 3. Motion Detection Warning
+![Motion Warning](evidence/motion_warning.png)
