@@ -20,6 +20,12 @@ This task uses an ESP32 microcontroller and an MPU6050 sensor to monitor tilt an
 - SCL: GPIO 22
 - Sensor supply voltage: 3.3V
 
+## Required Libraries
+
+- Wire (built-in Arduino library)
+- Adafruit MPU6050
+- Adafruit Unified Sensor
+
 ## Connections
 
 | MPU6050 | ESP32 |
