@@ -25,6 +25,11 @@ The MPU6050 measures acceleration and angular velocity. The ESP32 reads these va
 
 The program displays sensor readings on the Serial Monitor and generates warnings when excessive tilt or motion is detected.
 
+## Wiring Diagram
+
+![ESP32 and MPU6050 Wiring Diagram](wiring_diagram.png)
+
+
 ## Thresholds
 - Tilt limit: 30 degrees
 - Gyroscope limit: 1.2 rad/s
