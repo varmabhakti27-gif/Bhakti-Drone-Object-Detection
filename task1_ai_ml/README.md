@@ -42,17 +42,17 @@ The selected model was evaluated at an image size of 1536.
 
 ##  Project Structure
 
-```text
 task1_ai_ml/
 ├── notebooks/
-│   └── VisDrone_Object_Detection.ipynb
+│   └── README.md
 ├── src/
+│   ├── README.md
 │   └── detect.py
 ├── results/
 │   ├── sample_predictions/
 │   └── training_graphs/
+├── VisDrone_Object_Detection.ipynb
 └── README.md
-```
 
 ##  Results
 
